@@ -1,5 +1,6 @@
 Quick Start:
-2. Download amazon dataset meta data(.json.gz) and rating data(.csv) files to dataset/Metadata and dataset/Ratings respectively.
+
+1. Download amazon dataset meta data(.json.gz) and rating data(.csv) files to dataset/Metadata and dataset/Ratings respectively.
 2. python preprocess_amazon.py
 3. python run_llmrec.py
 
